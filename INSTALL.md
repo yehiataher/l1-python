@@ -16,10 +16,10 @@ Il en existe plusieurs mais nous nous appuyerons sur la distribution [Miniconda]
     * pour Mac OS, télécharger [Miniconda3 MacOSX 64-bit pkg](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg)
     * pour Linux, télécharger [Miniconda3 Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
 1. Installer Miniconda
-    * pour Windows, double-cliquer sur le fichier `.exe` téléchargé précédemment puis accepter les choix par défaut **sauf à la dernière étape** :
+    * pour Windows, double-cliquer sur le fichier `.exe` téléchargé précédemment puis suivez la procédure suivante :
       - accepter la licence ("I Agree")
       - "Install for", "Just Me (recommended)" ("Next")
-      - "Choose Install Location", ("Next")
+      - "Choose Install Location", Si votre nom d'utilisateur Windows contient des accents (par exemple C:\Users\Théo) **choisissez un autre répertoire d'installation** (par exemple C:\Users\Public), ("Next")
       - "Register Miniconda3 as my default Python 3.9", ("Install")
       - "Installation Complete", ("Next")
       - "Completing Miniconda3...", **décocher tout** ("Finish")
